@@ -45,7 +45,11 @@ The experiments are based on the following environments:
 ## Connect
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 If you have any questions, feel free to contact us through email lxyt7642@tju.edu.cn or GitHub issues. Thanks!
+=======
+If you have any questions, feel free to contact us through email lxyt7642@tju.edu.cn or GitHub issues. Thanks!
+>>>>>>> ff108cc697eca0daa55c36783188f44e484648c4
 =======
 If you have any questions, feel free to contact us through email lxyt7642@tju.edu.cn or GitHub issues. Thanks!
 >>>>>>> ff108cc697eca0daa55c36783188f44e484648c4
